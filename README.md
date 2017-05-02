@@ -9,11 +9,11 @@ The icon is inspired by Pure prompt and Snazzy color scheme.
 Pure prompt: [github.com/sindresorhus/pure](https://github.com/sindresorhus/pure)  
 iterm2-snazzy: [github.com/sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy)
 
-##Install
+## Install
 Click Get Info on *iTerm*. Drag *purecon.icns* file to apps icon (top left) in the Get Info window. Restart the app.
 
 You can watch me do it on YouTube: [youtu.be/pN9FEAkth3s](https://youtu.be/pN9FEAkth3s)
 
-##How
+## How
 Designed in Sketch. Used Export More plugin for automated ICNS export.  
 [github.com/nathco/Export-More](https://github.com/nathco/Export-More)
