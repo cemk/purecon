@@ -1,4 +1,4 @@
-#Purecon
+# Purecon
 > An icon for iTerm, but can be used with Terminal and Hyper too.
 
 I recently switched from Terminal and bash to iTerm 2 and zsh, and the only thing I didn't like was iTerm2's icon. So I made a new one.
